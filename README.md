@@ -46,9 +46,8 @@ Serverless AWS solutions. Real projects. All deployed and live.
 
 ---
 
-## GitHub Stats
+## Languages
 
-![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadwaheed1290&show_icons=true&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadwaheed1290&layout=compact&theme=dark&hide_border=true)
 
 ---
