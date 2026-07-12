@@ -46,11 +46,7 @@ Serverless AWS solutions. Real projects. All deployed and live.
 
 ---
 
-## Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadwaheed1290&layout=compact&theme=dark&hide_border=true)
-
----
 
 ## Connect
 
