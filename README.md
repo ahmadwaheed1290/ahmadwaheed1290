@@ -18,7 +18,7 @@ Serverless AWS solutions. Real projects. All deployed and live.
 - AWS Cloud Practitioner Certification
 - Expanding serverless portfolio on AWS
 - Growing cloud engineering expertise through real-world projects
-
+- Docker & DevOps Foundations
 ---
 
 ## Live Projects
