@@ -13,6 +13,8 @@ Serverless AWS solutions. Real projects. All deployed and live.
 
 ---
 
+## currently working on
+
 - Building a full-stack DevOps project with Docker + AWS EC2
 - Learning CI/CD with GitHub Actions
 - AWS Cloud Practitioner Certification---
